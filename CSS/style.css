@@ -1,0 +1,75 @@
+
+.knowmoretab{
+  background-color: #6639a6;
+  width: 125px;
+  height: 40px;
+  border-radius: 20px;
+  box-shadow: 1px 5px 10px #666666;
+  text-decoration: none;
+}
+
+.knowmoretab:hover{
+  background: #848ccf;
+  text-decoration: none;
+}
+
+.knowmoretab:active {
+  transform: translateY(4px);
+  text-decoration: none;
+}
+
+.knowmore{
+  margin-left: 15px;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: monospace;
+
+}
+
+.knowmore:hover{
+  color: white;
+}
+.designfeel{
+  color: #07031a;
+  display: inline-block;
+  font-family:sans-serif;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.title3{
+  color: white;
+  display: inline-block;
+  font-family: monospace;
+  font-size: 40px;
+}
+
+
+.subtitle5{
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  display: inline-block;
+}
+
+.designtab:hover{
+  background: black;
+  color: white;
+}
+
+.designfeel:hover{
+  color: white;
+}
+
+.designtab{
+  background-color: white;
+  top: 70px;
+  display: inline-block;
+
+
+}
+.exploretab{
+  background-color: #07031a;
+  margin-bottom: 0;;
+}
